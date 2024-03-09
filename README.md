@@ -1,1 +1,1 @@
-# https://doctor-hao.github.io/cabinet.github.io/ - Сайт
+# https://doctor-hao.github.io/cabinet.github.io/ - Сайт кабинет
